@@ -2,7 +2,7 @@
 
 Brandon M. Sergent · [ORCID](https://orcid.org/0009-0001-4165-5463)
 
-[Read the paper](paper.pdf) · [Markdown source](paper.md)
+[Read the paper](paper.pdf) · [Markdown source](paper.md) · [Zenodo](https://zenodo.org/records/23778761) · [DOI](https://doi.org/10.5281/zenodo.23778761)
 
 ## Abstract
 
